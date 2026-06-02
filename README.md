@@ -243,7 +243,3 @@ If the app is on `app.example.com`, RP ID is often the registrable suffix `examp
 | frontend | `npm run build` | Production build |
 
 ---
-
-## License
-
-MIT
