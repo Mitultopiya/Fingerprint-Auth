@@ -219,8 +219,6 @@ WEBAUTHN_RP_ID=example.com
 WEBAUTHN_ORIGIN=https://app.example.com
 ```
 
-If the app is on `app.example.com`, RP ID is often the registrable suffix `example.com` (must be valid per WebAuthn spec).
-
 ---
 
 ## User flows
